@@ -1,0 +1,27 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "superb-addons/ratings",
+  "version": "0.1.1",
+  "title": "Superb Ratings",
+  "category": "superb-addons-blocks",
+  "icon": "star-filled",
+  "description": "Superbly designed ratings block for your WordPress site.",
+  "keywords": [
+    "rating",
+    "ratings",
+    "star",
+    "stars",
+    "review",
+    "reviews",
+    "feedback"
+  ],
+  "supports": {
+    "html": false,
+    "align": ["left", "right"]
+  },
+  "textdomain": "superb-blocks",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

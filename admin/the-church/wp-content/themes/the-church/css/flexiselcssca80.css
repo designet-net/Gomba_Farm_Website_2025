@@ -1,0 +1,64 @@
+.clearout {
+height:20px;
+clear:both;
+}
+
+#flexiselDemo3 {
+display:none;
+}
+
+.nbs-flexisel-container {
+    position:relative;
+    max-width:100%;
+}
+.nbs-flexisel-ul {
+    position:relative;
+    width:99999px;
+    margin:0px;
+    padding:0px;
+    list-style-type:none;   
+    text-align:center;  
+}
+
+.nbs-flexisel-inner {
+    overflow:hidden;
+    float:left;
+    width:100%; 
+	margin-bottom:100px;   
+}
+
+.nbs-flexisel-item {
+    float:left;
+    margin:0px 2px 0 0;
+    padding:0px;
+    cursor:pointer;
+    position:relative;
+    line-height:0px;
+}
+.nbs-flexisel-item img {   
+    cursor: pointer;
+    position: relative;  
+    max-height:140px;	
+}
+.nbs-flexisel-item h5{ 
+font-size:16px; 
+font-weight:600; 
+margin-top:15px;
+}
+
+/*** Navigation ***/
+
+.nbs-flexisel-nav-left,
+.nbs-flexisel-nav-right {
+    width: 40px;
+    height: 40px; 
+    position: absolute;
+    cursor: pointer;
+    z-index: 100;
+	top:160px !important; 
+	border-radius:4px;	
+}
+
+.nbs-flexisel-nav-left { left:46%;}
+.nbs-flexisel-nav-right {right:47%;}
+.nbs-flexisel-nav-left:hover, .nbs-flexisel-nav-right:hover { background-color:#a65418;}

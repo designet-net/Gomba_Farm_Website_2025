@@ -1,0 +1,26 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "superb-addons/author-box",
+  "version": "0.2.0",
+  "title": "Superb About the Author",
+  "category": "superb-addons-blocks",
+  "icon": "id",
+  "description": "Superbly designed about the author block for your WordPress site.",
+  "keywords": [
+    "author",
+    "author box",
+    "about",
+    "about author",
+    "about the author",
+    "biography"
+  ],
+  "supports": {
+    "html": false,
+    "align": ["left", "right"]
+  },
+  "textdomain": "superb-blocks",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

@@ -1,0 +1,378 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-25 13:28+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:75 functions.php:83 functions.php:105 functions.php:126
+msgid "Box Shadow"
+msgstr ""
+
+#: functions.php:90 functions.php:112 functions.php:133
+msgid "Box Shadow Medium"
+msgstr ""
+
+#: functions.php:97 functions.php:140
+msgid "Box Shadow Large"
+msgstr ""
+
+#: functions.php:119
+msgid "Box Shadow Larger"
+msgstr ""
+
+#: functions.php:147 functions.php:154 functions.php:162 functions.php:170
+msgid "Box Shadow on Hover"
+msgstr ""
+
+#: functions.php:179
+msgid "Secondary"
+msgstr ""
+
+#: inc/admin/info.php:36
+msgid " Info"
+msgstr ""
+
+#: inc/admin/info.php:44
+msgid "Spike Business Theme"
+msgstr ""
+
+#: inc/admin/info.php:126
+#, php-format
+msgid "Welcome to %s - "
+msgstr ""
+
+#: inc/admin/info.php:129
+msgid "Spike Business Pro offers more features and enhances your experience!"
+msgstr ""
+
+#: inc/admin/info.php:136
+msgid "Buy Pro"
+msgstr ""
+
+#: patterns/about.php:27
+msgid "WHY CHOOSE US"
+msgstr ""
+
+#: patterns/about.php:32
+msgid "We Are A Creative Digital MarketingAgency"
+msgstr ""
+
+#: patterns/about.php:37
+msgid ""
+"Our team of experienced professionals is dedicated to helping business "
+"achieve higher visibility, increased to traffic, greater."
+msgstr ""
+
+#: patterns/about.php:55
+msgid "Nostrum aut! Nonummy iaculis."
+msgstr ""
+
+#: patterns/about.php:66
+msgid "Ligula harum tristique doloribus."
+msgstr ""
+
+#: patterns/about.php:77
+msgid "Velit officiis hymenaeos quisque."
+msgstr ""
+
+#: patterns/about.php:88
+msgid "Pariatur facilisi, sint irure, iure."
+msgstr ""
+
+#: patterns/about.php:97
+msgid "Explore Our Services"
+msgstr ""
+
+#: patterns/feature.php:20
+msgid "OUR FEATURES"
+msgstr ""
+
+#: patterns/feature.php:24
+msgid "Find Yours From The Feature"
+msgstr ""
+
+#: patterns/feature.php:28
+msgid ""
+"Egestas nec orci labore distinctio irure ornare montes hic erat illo sapien? "
+"Beatae, laboriosam, eiusmod consequat suscipit rem nascetur Cumque "
+"perspiciatis, voluptatem congue Aperiam nascetur eligendi adipisci illum."
+msgstr ""
+
+#: patterns/feature.php:38
+msgid "360+"
+msgstr ""
+
+#: patterns/feature.php:42
+msgid "HAPPY CLIENT"
+msgstr ""
+
+#: patterns/feature.php:48
+msgid "650"
+msgstr ""
+
+#: patterns/feature.php:52
+msgid "ONGOING PROJECT"
+msgstr ""
+
+#: patterns/feature.php:58
+msgid "100%"
+msgstr ""
+
+#: patterns/feature.php:62
+msgid "SATICFACTION RATE"
+msgstr ""
+
+#: patterns/feature.php:77
+msgid "Marketing Analysis"
+msgstr ""
+
+#: patterns/feature.php:81 patterns/feature.php:95 patterns/feature.php:109
+#: patterns/feature.php:123
+msgid "Cum, diamlorem accumsan rhoncus excepturi montes."
+msgstr ""
+
+#: patterns/feature.php:91
+msgid "Digital Marketing"
+msgstr ""
+
+#: patterns/feature.php:105
+msgid "Business Strategy"
+msgstr ""
+
+#: patterns/feature.php:119
+msgid "Product Management"
+msgstr ""
+
+#: patterns/footer.php:22
+msgid ""
+"Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat "
+"lorem lacinia sagittis non pretium aliquet, fames quo repudiandae."
+msgstr ""
+
+#: patterns/footer.php:28
+msgid "Products"
+msgstr ""
+
+#: patterns/footer.php:36
+msgid "Company"
+msgstr ""
+
+#: patterns/footer.php:44
+msgid "OUR Newsletter"
+msgstr ""
+
+#: patterns/footer.php:48
+msgid "Please subscribe to our newsletter to get all the great Offers"
+msgstr ""
+
+#: patterns/footer.php:53
+msgid "JOIN US NOW"
+msgstr ""
+
+#: patterns/footer.php:61
+msgid "© 2024."
+msgstr ""
+
+#: patterns/footer.php:67
+msgid "All rights reserved"
+msgstr ""
+
+#: patterns/header.php:19
+msgid "Home"
+msgstr ""
+
+#: patterns/header.php:20
+msgid "About"
+msgstr ""
+
+#: patterns/header.php:21
+msgid "Services"
+msgstr ""
+
+#: patterns/header.php:22
+msgid "Blog"
+msgstr ""
+
+#: patterns/header.php:23
+msgid "Contact"
+msgstr ""
+
+#: patterns/header.php:28
+msgid "Get A Quote"
+msgstr ""
+
+#: patterns/hero-banner.php:20
+msgid "INTRODUCTION OF US"
+msgstr ""
+
+#: patterns/hero-banner.php:24
+msgid "Creative Social Media Marketing Solution For"
+msgstr ""
+
+#: patterns/hero-banner.php:28
+msgid ""
+"Quibusdam facilisis ornare exercitation beatae sociosqu potenti litora, "
+"congue, proident laborum nascetur excepturi modi maiores, quidem feugiat "
+"praesent cubilia dictum adipisicing morbi eget scelerisque."
+msgstr ""
+
+#: patterns/hero-banner.php:35
+msgid "Learn More"
+msgstr ""
+
+#: patterns/hero-banner.php:50
+msgid "Have Any Questions?"
+msgstr ""
+
+#: patterns/hero-banner.php:54
+msgid "+92 666 888 0000"
+msgstr ""
+
+#: patterns/hero-banner.php:73
+msgid "2k +"
+msgstr ""
+
+#: patterns/hero-banner.php:77
+msgid "Promotion"
+msgstr ""
+
+#: patterns/hero-banner.php:91
+msgid "5k +"
+msgstr ""
+
+#: patterns/hero-banner.php:95
+msgid "Site visitors"
+msgstr ""
+
+#: patterns/latest-posts.php:13
+msgid "OUR BLOG"
+msgstr ""
+
+#: patterns/latest-posts.php:17
+msgid "Our Latest Articles &amp; Blog"
+msgstr ""
+
+#: patterns/latest-posts.php:28
+msgid "View All Blog"
+msgstr ""
+
+#: patterns/primary-sidebar.php:16
+msgid "Archive"
+msgstr ""
+
+#: patterns/primary-sidebar.php:24
+msgid "Categories"
+msgstr ""
+
+#: patterns/primary-sidebar.php:32
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:40
+msgid "Tags"
+msgstr ""
+
+#: patterns/primary-sidebar.php:48
+msgid "Social Links"
+msgstr ""
+
+#: patterns/service.php:19
+msgid "OUR SERVICES"
+msgstr ""
+
+#: patterns/service.php:23
+msgid "Our Flowless Services"
+msgstr ""
+
+#: patterns/service.php:34
+msgid "View All Services"
+msgstr ""
+
+#: patterns/service.php:48
+msgid "Media Marketing Management"
+msgstr ""
+
+#: patterns/service.php:52 patterns/service.php:74 patterns/service.php:96
+#: patterns/service.php:118
+msgid ""
+"We provide digital strategies, products and services that appreciated by "
+"clients."
+msgstr ""
+
+#: patterns/service.php:57 patterns/service.php:79 patterns/service.php:101
+#: patterns/service.php:123
+msgid "Read More"
+msgstr ""
+
+#: patterns/service.php:70
+msgid "Media Market Management"
+msgstr ""
+
+#: patterns/service.php:92
+msgid "Project Mission Visualization"
+msgstr ""
+
+#: patterns/service.php:114
+msgid "Policy Creation &amp; Plan Process"
+msgstr ""
+
+#: patterns/template-404.php:19
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/template-search.php:27
+msgid "."
+msgstr ""
+
+#: patterns/template-search.php:45
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr ""
+
+#: patterns/testimonial.php:25 patterns/testimonial.php:53
+msgid ""
+"Gravida nihil nulla eum esent  reiciendis! Pariatur expedita integer accuss "
+"eouys rem molestias. Etiam consequatee."
+msgstr ""
+
+#: patterns/testimonial.php:35
+msgid "Celia Almeda"
+msgstr ""
+
+#: patterns/testimonial.php:39 patterns/testimonial.php:67
+msgid "Happy Client"
+msgstr ""
+
+#: patterns/testimonial.php:63
+msgid "Thomas Muller"
+msgstr ""
+
+#: patterns/testimonial.php:78
+msgid "OUR TESTIMONIALS"
+msgstr ""
+
+#: patterns/testimonial.php:82
+msgid "What Our Student Says"
+msgstr ""
+
+#: patterns/testimonial.php:86
+msgid ""
+"Convallis lacinia sapiente tincidunt occaet suscipit accusantium lacinia "
+"cras, Sapien adipiscing aliquip magna gravida Labore."
+msgstr ""
+
+#: patterns/testimonial.php:91
+msgid "More Reviews"
+msgstr ""

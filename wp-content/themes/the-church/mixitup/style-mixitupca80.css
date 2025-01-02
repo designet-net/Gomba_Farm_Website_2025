@@ -1,0 +1,47 @@
+/* MIXTITUP PORTFOLIO */
+.portfoliowrap	{ overflow:visible;position:relative; margin-left: 0; }
+.portfolio		{ overflow:visible !important; position:relative; margin-left: -5px; margin-bottom: -5px; margin-top: -5px; }
+.portfolio img	{ width:100%; max-width:none !important; height:auto; display:block;}
+.threecol .entry{ width:33%; float:left; overflow:visible; position:relative; }
+.fourcol .entry	{ width:24.9%; float:left; overflow:visible; position:relative; }
+.fivecol .entry	{ width:20%; float:left;overflow:visible;position:relative; }
+
+
+
+
+ul.portfoliofilter 	  { margin:50px 0 30px 0; padding: 0; width: 100%; text-align: center}
+ul.portfoliofilter li { display: inline-block; margin-right: 10px; margin-bottom: 10px; }
+ul.portfoliofilter li a {  text-transform: none;font-weight: 400; font-size: 14px; line-height: 30px; color: #555; text-shadow: none !important; -webkit-box-shadow: none !important; -moz-box-shadow: none !important; box-shadow: none !important; 
+padding:10px; -moz-box-sizing: border-box; box-sizing:border-box; -webkit-order-sizing:border-box; text-transform:uppercase;}
+ul.portfoliofilter li:hover a,
+ul.portfoliofilter li a:hover	 {  color: #fff}
+ul.portfoliofilter li a.selected {  color: #ef2e2e;  }
+
+.isotope-item { z-index: 2; }
+.isotope-hidden.isotope-item { pointer-events: none; z-index: 1; }
+.isotope,
+.isotope .isotope-item { -webkit-transition-duration: 0.5s; -moz-transition-duration: 0.5s; transition-duration: 0.5s;}
+.isotope { -webkit-transition-property: height, width; -moz-transition-property: height, width; transition-property: height, width; }
+.isotope .isotope-item { -webkit-transition-property: -webkit-transform, opacity; -moz-transition-property: -moz-transform, opacity; transition-property: transform, opacity; }
+
+
+.holderwrap { position:relative; -moz-box-sizing: border-box; box-sizing:border-box; -webkit-order-sizing:border-box; margin:15px; background-color:#ef2e2e; }
+.holderwrap h5{ display:none; text-align:center; position:absolute; width:100%; top:45%; color:#fff; text-transform:uppercase; padding-bottom:10px; font-size:18px; font-weight:600;}
+.holderwrap:hover h5{ display:block;}
+.holderwrap:hover img{opacity:0.1;}
+.holderwrap figure{ overflow:hidden;margin:0;max-height:100%;width:100%;text-align:center;cursor:pointer}
+
+.holderwrap figure figcaption{padding:0;color:#fff;text-transform:uppercase;font-size:1.25em;-webkit-backface-visibility:hidden;backface-visibility:hidden}
+
+figure.effect-bubba img{opacity:1;-webkit-transition:opacity .35s;transition:opacity .35s}
+ 
+
+figure.effect-bubba figcaption::before,figure.effect-bubba figcaption::after{position:absolute;top:30px;right:30px;bottom:30px;left:30px;content:'';opacity:0;-webkit-transition:opacity 0.35s,-webkit-transform .35s;transition:opacity 0.35s,transform .35s}
+
+figure.effect-bubba figcaption::before{border-top:2px solid #fff; border-bottom:2px solid #fff;-webkit-transform:scale(0,1);transform:scale(0,1)}
+
+figure.effect-bubba figcaption::after{border-right:2px solid #fff; border-left:2px solid #fff;-webkit-transform:scale(1,0);transform:scale(1,0)}
+
+figure.effect-bubba:hover figcaption::before,figure.effect-bubba:hover figcaption::after{opacity:1;-webkit-transform:scale(1);transform:scale(1)}
+
+

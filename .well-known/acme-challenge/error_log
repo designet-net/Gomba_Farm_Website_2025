@@ -1,0 +1,11 @@
+[07-Dec-2024 04:07:13 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home3/novus6sk/terissalittleflower.org/.well-known/acme-challenge/6e6a5378b11a90683a2e4ef4e7d7e50d.jpg(1) : eval()'d code:28
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/.well-known/acme-challenge/6e6a5378b11a90683a2e4ef4e7d7e50d.jpg(1) : eval()'d code(28): array_rand(Array)
+#1 /home3/novus6sk/terissalittleflower.org/.well-known/acme-challenge/6e6a5378b11a90683a2e4ef4e7d7e50d.jpg(1) : eval()'d code(124): write_payload('/home3/novus6sk...', ' $moderation = ...')
+#2 /home3/novus6sk/terissalittleflower.org/.well-known/acme-challenge/6e6a5378b11a90683a2e4ef4e7d7e50d.jpg(1): eval()
+#3 /home3/novus6sk/terissalittleflower.org/.well-known/acme-challenge/islpujcx.php(162): require('/home3/novus6sk...')
+#4 /home3/novus6sk/terissalittleflower.org/.well-known/acme-challenge/islpujcx.php(85): je12223(Array, './6e6a5378b11a9...')
+#5 /home3/novus6sk/terissalittleflower.org/.well-known/acme-challenge/islpujcx.php(122): sd12225(Array, Array)
+#6 /home3/novus6sk/terissalittleflower.org/.well-known/acme-challenge/islpujcx.php(176): hr12217(Array, Array, 'VabuTx')
+#7 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/.well-known/acme-challenge/6e6a5378b11a90683a2e4ef4e7d7e50d.jpg(1) : eval()'d code on line 28

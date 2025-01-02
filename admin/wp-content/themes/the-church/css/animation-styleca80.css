@@ -1,0 +1,10 @@
+#pagearea .container .fourpagebox,
+#welcomearea .container .one_half,
+#section1 .container, 
+#section2 .container .column-event,
+#section3 .container .about-me,
+#section4 .container,
+#section5 .container .news-box,
+#section6 .container .teammember-list,
+#section8 .container,
+#section9 .container{visibility:hidden;}

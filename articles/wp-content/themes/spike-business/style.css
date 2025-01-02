@@ -1,0 +1,197 @@
+/*
+Theme Name: Spike Business
+Theme URI: https://kortezthemes.com/spike-business/
+Author: kortezthemes
+Author URI: https://kortezthemes.com
+Description: Spike Business is a multi-Purpose WordPress theme for all kinds of business consulting services, such as business consulting, marketing consulting, advertising consulting, financial advisors, insurance brokers, investment consultants, accountant services, HR consulting and many more.
+Version: 1.0.3
+Requires at least: 6.0
+Tested up to: 6.6
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: spike-business
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, threaded-comments, translation-ready, wide-blocks, block-styles, blog, portfolio, education
+
+Spike Business WordPress Theme, Copyright 2024 kortezthemes
+Spike Business is distributed under the terms of the GNU General Public License v3
+*/
+
+/* Reset Default Blocks Gap */
+body.editor-styles-wrapper .wp-site-blocks > * {
+  	margin-block-start: 0;
+}
+.wp-site-blocks > * {
+  	margin-block-start: 0;
+}
+
+/* Support Alignfull */
+body {
+  	overflow-x: hidden;
+}
+.entry-content .alignfull {
+	margin-left: calc( -50vw + 50%);
+	margin-right: calc( -50vw + 50%);
+	max-width: 100vw;
+	width: 100vw;
+}
+
+/*Custom Box Shadow [is-style-sb-box-shadow]*/
+.wp-block-image.is-style-sb-box-shadow img,
+.wp-block-column.is-style-sb-box-shadow,
+.wp-block-columns.is-style-sb-box-shadow,
+.wp-block-group.is-style-sb-box-shadow {
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.05);
+}
+.wp-block-image.is-style-sb-box-shadow-medium img,
+.wp-block-column.is-style-sb-box-shadow-medium,
+.wp-block-columns.is-style-sb-box-shadow-medium,
+.wp-block-group.is-style-sb-box-shadow-medium {
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
+}
+.wp-block-image.is-style-sb-box-shadow-large img,
+.wp-block-column.is-style-sb-box-shadow-large,
+.wp-block-columns.is-style-sb-box-shadow-large,
+.wp-block-group.is-style-sb-box-shadow-large {
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.15);
+}
+.wp-block-image.is-style-sb-box-shadow-hover img:hover,
+.wp-block-column.is-style-sb-box-shadow-hover:hover,
+.wp-block-columns.is-style-sb-box-shadow-hover:hover,
+.wp-block-group.is-style-sb-box-shadow-hover:hover {
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.06);
+}
+
+/*Secondary button [is-style-sb-button-secondary]*/
+div.is-style-sb-button-secondary .wp-element-button{
+  color: var(--wp--preset--color--secondary-accent-text);
+  background-color: var(--wp--preset--color--secondary-accent);
+  border: 3px solid var(--wp--preset--color--secondary-accent) !important;
+}
+div.is-style-sb-button-secondary .wp-element-button:hover,
+div.is-style-sb-button-secondary .wp-element-button:focus,
+div.is-style-sb-button-secondary .wp-element-button:active {
+    color: #ffffff;
+    background-color: var(--wp--preset--color--hover);
+    border-color: var(--wp--preset--color--hover) !important;
+}
+/*SVG icon color support [sb-duotone-primary] [sb-duotone-secondary]*/
+.sb-duotone-primary {
+  filter: var(--wp--preset--duotone--primary);
+}
+.sb-duotone-secondary {
+    filter: var(--wp--preset--duotone--secondary);
+}
+
+/*WooCommerce Compatibility*/
+.woocommerce ul.products li.product a img {
+  border-radius: 6px;
+  height: 350px;
+  object-fit: cover;
+}
+.woocommerce ul.products li.product,
+.woocommerce-page ul.products li.product {
+  margin: 0 2.5% 2.992em 0;
+  width: 23.1%;
+}
+.woocommerce ul.products li.last,
+.woocommerce-page ul.products li.last {
+  margin-right: 0;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li {
+  border-radius: 0;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active:before,
+.woocommerce div.product .woocommerce-tabs ul.tabs li:before,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active:after {
+  display: none;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li:after {
+  border: 0;
+}
+.woocommerce #reviews #comments ol.commentlist {
+  padding: 0;
+  margin-top: 20px !important;
+}
+.woocommerce-page .input-text {
+  padding: 11px 30px;
+  border: 1px solid #817e7e;
+  border-radius: 6px;
+}
+.woocommerce-page .wc-block-components-product-name {
+    font-size: var(--wp--preset--font-size--small);
+    text-decoration: none;
+    font-weight: var(--wp--custom--font-weight--semi-bold);
+}
+.woocommerce .bt-woo-breadcrumb-center .woocommerce-breadcrumb {
+  text-align: center;
+}
+.woocommerce .bt-woo-breadcrumb-left .woocommerce-breadcrumb {
+  text-align: left;
+}
+.woocommerce .bt-woo-breadcrumb-right .woocommerce-breadcrumb {
+  text-align: right;
+}
+/*Single Product Gallary*/
+.woocommerce div.product div.images .flex-control-thumbs,
+.woocommerce .flex-control-thumbs {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  overflow: hidden;
+  zoom: 1;
+  margin-top: 10px;
+  padding: 0;
+}
+.woocommerce div.product div.images .flex-control-thumbs li:nth-child(4n+1),
+.woocommerce .flex-control-thumbs li:nth-child(4n+1) {
+  clear: left;
+}
+.woocommerce div.product div.images .flex-control-thumbs li,
+.woocommerce .flex-control-thumbs li {
+  width: 100%;
+  float: left;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.woocommerce div.product div.images .flex-control-thumbs li img,
+.woocommerce .flex-control-thumbs li img {
+  cursor: pointer;
+  opacity: .5;
+  margin: 0;
+  display: block;
+  width: 100%;
+  height: auto;
+  box-shadow: none;
+}
+.woocommerce div.product div.images .flex-control-thumbs li img.flex-active,
+.woocommerce div.product div.images .flex-control-thumbs li img:hover,
+.woocommerce .flex-control-thumbs li img.flex-active,
+.woocommerce .flex-control-thumbs li img:hover {
+  opacity: 1;
+}
+.woocommerce span.onsale {
+  background-color: var(--wp--preset--color--light);
+}
+/*Single Product Page Price*/
+.woocommerce .wp-block-add-to-cart-form form.cart div.quantity {
+  display: inline-block;
+  float: none;
+  vertical-align: middle;
+  margin: 0 10px 0 0;
+}
+/*Single Product Tab*/
+.wp-block-woocommerce-product-details ul.wc-tabs {
+    border-bottom: none;
+}
+
+/* Navigation */
+@media screen and (min-width: 600px){
+    .wp-block-navigation ul.wp-block-navigation-submenu li {
+        border-bottom: 1px solid rgba(0,0,0,.15);
+    }
+    .wp-block-navigation ul.wp-block-navigation-submenu li:last-child {
+        border: none;
+    }
+}

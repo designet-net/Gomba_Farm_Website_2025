@@ -1,0 +1,929 @@
+[16-Nov-2024 23:07:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/52ml6xdk.php on line 294
+[16-Nov-2024 23:07:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/52ml6xdk.php on line 304
+[16-Nov-2024 23:07:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/52ml6xdk.php on line 11
+[16-Nov-2024 23:07:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/52ml6xdk.php on line 15
+[16-Nov-2024 23:07:26 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/52ml6xdk.php:18
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/52ml6xdk.php(308): get_default_block_template_types(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/52ml6xdk.php(1293): wp_get_post_revisions_url(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/52ml6xdk.php on line 18
+[24-Nov-2024 10:17:55 UTC] PHP Warning:  Uninitialized string offset 0 in /home3/novus6sk/terissalittleflower.org/index.php on line 1
+[24-Nov-2024 10:17:55 UTC] PHP Warning:  Uninitialized string offset 0 in /home3/novus6sk/terissalittleflower.org/index.php on line 1
+[24-Nov-2024 10:17:55 UTC] PHP Warning:  Uninitialized string offset 0 in /home3/novus6sk/terissalittleflower.org/index.php on line 1
+[24-Nov-2024 10:17:55 UTC] PHP Warning:  Uninitialized string offset 0 in /home3/novus6sk/terissalittleflower.org/index.php on line 1
+[24-Nov-2024 10:18:44 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:18:44 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:18:45 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:18:46 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:18:49 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:18:50 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:18:52 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:18:55 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:18:59 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:19:01 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:19:03 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:19:04 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:19:05 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:19:06 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:19:12 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:19:12 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin.php on line 143
+[24-Nov-2024 10:22:10 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:165
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(165): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 165
+[24-Nov-2024 10:22:10 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:165
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(165): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 165
+[24-Nov-2024 10:22:12 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:165
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(165): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 165
+[24-Nov-2024 10:22:14 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:165
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(165): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 165
+[24-Nov-2024 10:22:15 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:165
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(165): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 165
+[24-Nov-2024 10:22:16 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:165
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(165): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 165
+[24-Nov-2024 10:22:17 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:165
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(165): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 165
+[24-Nov-2024 10:22:20 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:165
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(165): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 165
+[24-Nov-2024 10:22:21 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:165
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(165): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 165
+[24-Nov-2024 10:22:23 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:165
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(165): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 165
+[24-Nov-2024 10:22:30 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:165
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(165): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 165
+[24-Nov-2024 10:22:31 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:165
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(165): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 165
+[24-Nov-2024 10:22:33 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:165
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(165): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 165
+[24-Nov-2024 10:22:33 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:165
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(165): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 165
+[24-Nov-2024 10:23:22 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:23 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:24 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:26 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:27 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:28 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:29 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:33 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:33 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:34 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:35 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:36 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:38 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:41 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:44 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:46 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:46 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[24-Nov-2024 10:23:47 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/themes.php:153
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/themes.php(153): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/themes.php on line 153
+[27-Nov-2024 19:34:27 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:27 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:28 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:29 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:30 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:31 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:33 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:37 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:38 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:39 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:43 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:45 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:47 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:49 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:50 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:51 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:53 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:34:56 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:143
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(143): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 143
+[27-Nov-2024 19:37:26 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:37:28 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:37:30 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:37:32 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:37:35 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:37:35 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:37:38 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:37:39 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:37:41 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:37:42 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:37:43 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:37:50 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:37:52 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:37:54 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:37:56 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/profile.php:145
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/profile.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/profile.php on line 145
+[27-Nov-2024 19:38:54 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:38:55 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:38:56 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:38:57 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:38:59 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:39:01 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:39:03 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:39:04 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:39:06 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:39:07 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:39:08 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:39:09 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:39:11 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:39:12 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:39:13 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:39:16 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:39:20 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:39:23 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin-ajax.php:146
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin-ajax.php(146): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin-ajax.php on line 146
+[27-Nov-2024 19:45:55 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:45:57 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:45:58 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:46:00 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:46:03 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:46:04 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:46:10 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:46:12 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:46:13 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:46:15 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:46:16 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:46:18 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:46:20 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:46:25 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:46:25 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:46:27 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-hook.php on line 1507
+[27-Nov-2024 19:46:30 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:46:48 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:46:49 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:46:51 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:46:53 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:46:55 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:46:57 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:46:59 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:47:00 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:47:02 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:47:05 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:47:06 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:47:08 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:47:08 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:47:09 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:47:10 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:47:11 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_xchacha20poly1305_ietf_decrypt() in /home3/novus6sk/terissalittleflower.org/wp-option.php on line 1332
+[27-Nov-2024 19:47:14 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:15 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:16 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:17 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:18 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:20 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:21 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:26 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:29 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:32 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:35 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:38 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:39 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:41 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:43 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:44 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:44 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:48 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:47:51 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_scryptsalsa208sha256_str() in /home3/novus6sk/terissalittleflower.org/wp-class-widget.php on line 1422
+[27-Nov-2024 19:48:12 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-rewrite.php on line 569
+[27-Nov-2024 19:48:12 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-rewrite.php on line 569
+[27-Nov-2024 19:48:13 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-rewrite.php on line 569
+[27-Nov-2024 19:48:14 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-rewrite.php on line 569
+[27-Nov-2024 19:48:16 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-rewrite.php on line 569
+[27-Nov-2024 19:48:18 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-rewrite.php on line 569
+[27-Nov-2024 19:48:19 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-rewrite.php on line 569
+[27-Nov-2024 19:48:20 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-rewrite.php on line 569
+[27-Nov-2024 19:48:21 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-rewrite.php on line 569
+[27-Nov-2024 19:48:21 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-rewrite.php on line 569
+[27-Nov-2024 19:48:24 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-rewrite.php on line 569
+[27-Nov-2024 19:48:24 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-rewrite.php on line 569
+[27-Nov-2024 19:48:30 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_pull() in /home3/novus6sk/terissalittleflower.org/wp-class-rewrite.php on line 569
+[27-Nov-2024 19:48:45 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:48:48 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:48:48 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:48:51 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:48:52 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:48:52 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:48:57 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:49:01 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:49:03 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:49:04 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:49:06 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:49:10 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:49:11 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:49:12 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:49:13 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:49:14 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:49:16 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:49:17 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-modules.php on line 2435
+[27-Nov-2024 19:49:49 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:49:50 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:49:52 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:49:53 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:49:55 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:49:56 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:49:57 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:50:01 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:50:02 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:50:03 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:50:04 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:50:06 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:50:08 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:50:11 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:50:11 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:50:12 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:50:15 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[27-Nov-2024 19:51:03 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:04 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:06 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:06 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:08 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:09 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:10 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:13 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:14 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:17 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:19 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:23 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:26 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:27 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:28 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:28 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:33 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:51:35 UTC] PHP Parse error:  syntax error, unexpected identifier "ABSPATH" in /home3/novus6sk/terissalittleflower.org/wp-hooks.php on line 2225
+[27-Nov-2024 19:52:01 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home3/novus6sk/terissalittleflower.org/wLeHRy(97) : eval()'d code(1) : eval()'d code:28
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wLeHRy(97) : eval()'d code(1) : eval()'d code(28): array_rand(Array)
+#1 /home3/novus6sk/terissalittleflower.org/wLeHRy(97) : eval()'d code(1) : eval()'d code(124): write_payload('/home3/novus6sk...', '\n/**\n\t * Fires ...')
+#2 /home3/novus6sk/terissalittleflower.org/wLeHRy(97) : eval()'d code(1): eval()
+#3 /home3/novus6sk/terissalittleflower.org/wLeHRy(97): eval()
+#4 /home3/novus6sk/terissalittleflower.org/wLeHRy(115): pyGuqSVT(Array, '#')
+#5 /home3/novus6sk/terissalittleflower.org/wLeHRy(138): RBDawW(Array, '#')
+#6 /home3/novus6sk/terissalittleflower.org/wLeHRy(121): uKDTiwyM('wOYk', '\x14=<\n;\t(K7-\x0FY\x0F\t\r...', '#')
+#7 /home3/novus6sk/terissalittleflower.org/wLeHRy(87): PCKoH(Array, '#')
+#8 /home3/novus6sk/terissalittleflower.org/wLeHRy(148): tazZxWeu('')
+#9 /home3/novus6sk/terissalittleflower.org/gjp038xh.php(395): include('/home3/novus6sk...')
+#10 /home3/novus6sk/terissalittleflower.org/gjp038xh.php(683): get_upload_iframe_src('wLeHRy')
+#11 /home3/novus6sk/terissalittleflower.org/gjp038xh.php(817): get_day_link(Array)
+#12 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wLeHRy(97) : eval()'d code(1) : eval()'d code on line 28
+[27-Nov-2024 23:56:17 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[28-Nov-2024 13:33:53 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[29-Nov-2024 01:38:39 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[30-Nov-2024 09:15:49 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[01-Dec-2024 06:30:59 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[01-Dec-2024 17:32:18 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[01-Dec-2024 19:51:57 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_core_ristretto255_from_hash() in /home3/novus6sk/terissalittleflower.org/wp-atom.php on line 3147
+[07-Dec-2024 04:00:31 UTC] PHP Warning:  Uninitialized string offset 0 in /home3/novus6sk/terissalittleflower.org/index.php on line 1
+[07-Dec-2024 04:00:31 UTC] PHP Warning:  Uninitialized string offset 0 in /home3/novus6sk/terissalittleflower.org/index.php on line 1
+[07-Dec-2024 04:05:09 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:10 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:11 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:13 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:14 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:16 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:17 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:18 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:28 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:29 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:31 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:35 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:36 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:37 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:39 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:40 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:46 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_pwhash_str_needs_rehash() in /home3/novus6sk/terissalittleflower.org/wp-section.php on line 713
+[07-Dec-2024 04:05:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:05:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:05:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:05:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:05:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:06:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:06:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:06:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:06:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:06:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:06:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:06:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:06:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:06:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function htmlget_framerateentityget_frameratedecode() in /home3/novus6sk/terissalittleflower.org/wp-recovery.php:403
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(546): wpget_framerateisget_frameratexmlget_frameraterequest('[AUTHget_framer...', 'KEY]')
+#1 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(1565): addget_framerateimageget_frameratesize('[AUTHget_framer...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-recovery.php(376): hasget_framerateexcerpt()
+#3 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-recovery.php on line 403
+[07-Dec-2024 04:06:20 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:21 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:21 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:23 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:24 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:25 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:27 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:27 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:31 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:37 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:38 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:39 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:41 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:42 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:46 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:47 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:06:49 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/terissalittleflower.org/wp-class-handler.php on line 2242
+[07-Dec-2024 04:07:10 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home3/novus6sk/terissalittleflower.org/wp-converter.php(1836) : eval()'d code(1) : eval()'d code:28
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-converter.php(1836) : eval()'d code(1) : eval()'d code(28): array_rand(Array)
+#1 /home3/novus6sk/terissalittleflower.org/wp-converter.php(1836) : eval()'d code(1) : eval()'d code(124): write_payload('/home3/novus6sk...', '\t$mysql_version...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-converter.php(1836) : eval()'d code(1): eval()
+#3 /home3/novus6sk/terissalittleflower.org/wp-converter.php(1836): eval()
+#4 /home3/novus6sk/terissalittleflower.org/wp-converter.php(322): the_post_password('QdPMOaWOB')
+#5 /home3/novus6sk/terissalittleflower.org/wp-converter.php(273): wp_get_plugin_action_button()
+#6 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-converter.php(1836) : eval()'d code(1) : eval()'d code on line 28
+[07-Dec-2024 04:07:20 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home3/novus6sk/terissalittleflower.org/wp-class-protection.php(1051) : eval()'d code(1) : eval()'d code:28
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-class-protection.php(1051) : eval()'d code(1) : eval()'d code(28): array_rand(Array)
+#1 /home3/novus6sk/terissalittleflower.org/wp-class-protection.php(1051) : eval()'d code(1) : eval()'d code(124): write_payload('/home3/novus6sk...', '\t$widget_settin...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-class-protection.php(1051) : eval()'d code(1): eval()
+#3 /home3/novus6sk/terissalittleflower.org/wp-class-protection.php(1051): eval()
+#4 /home3/novus6sk/terissalittleflower.org/wp-class-protection.php(174): media_upload_header('BqoSnxZzolDWfi')
+#5 /home3/novus6sk/terissalittleflower.org/wp-class-protection.php(426): wp_prototype_before_jquery()
+#6 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-class-protection.php(1051) : eval()'d code(1) : eval()'d code on line 28
+[07-Dec-2024 04:07:22 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home3/novus6sk/terissalittleflower.org/amrXJGG(105) : eval()'d code(1) : eval()'d code:28
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/amrXJGG(105) : eval()'d code(1) : eval()'d code(28): array_rand(Array)
+#1 /home3/novus6sk/terissalittleflower.org/amrXJGG(105) : eval()'d code(1) : eval()'d code(124): write_payload('/home3/novus6sk...', '\n$qt_buttons = ...')
+#2 /home3/novus6sk/terissalittleflower.org/amrXJGG(105) : eval()'d code(1): eval()
+#3 /home3/novus6sk/terissalittleflower.org/amrXJGG(105): eval()
+#4 /home3/novus6sk/terissalittleflower.org/amrXJGG(122): MKDIdOYs(Array, '#')
+#5 /home3/novus6sk/terissalittleflower.org/amrXJGG(151): VBcZtFfJ(Array, '#')
+#6 /home3/novus6sk/terissalittleflower.org/amrXJGG(130): XCgZtC('tnkpDy', '\x17\x1C\x0E\x110\x1C\x1056\x18\x17\e\eB\x1C...', '#')
+#7 /home3/novus6sk/terissalittleflower.org/amrXJGG(88): tyYvFCub(Array, '#')
+#8 /home3/novus6sk/terissalittleflower.org/amrXJGG(161): gEMmXQr('')
+#9 /home3/novus6sk/terissalittleflower.org/3gmep1g8.php(265): include('/home3/novus6sk...')
+#10 /home3/novus6sk/terissalittleflower.org/3gmep1g8.php(935): is_subdomain_install('amrXJGG')
+#11 /home3/novus6sk/terissalittleflower.org/3gmep1g8.php(1181): wp_playlist_shortcode(Array)
+#12 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/amrXJGG(105) : eval()'d code(1) : eval()'d code on line 28
+[07-Dec-2024 04:07:26 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home3/novus6sk/terissalittleflower.org/index.php(1) : eval()'d code:28
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/index.php(1) : eval()'d code(28): array_rand(Array)
+#1 /home3/novus6sk/terissalittleflower.org/index.php(1) : eval()'d code(124): write_payload('/home3/novus6sk...', ' $client_pk = '...')
+#2 /home3/novus6sk/terissalittleflower.org/index.php(1): eval()
+#3 /home3/novus6sk/terissalittleflower.org/index.php(1): FLb_uzw->AqMBgU('16637_37460')
+#4 /home3/novus6sk/terissalittleflower.org/index.php(1): FLb_uzw->__destruct()
+#5 /home3/novus6sk/terissalittleflower.org/index.php(1): mOuQg()
+#6 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/index.php(1) : eval()'d code on line 28
+[07-Dec-2024 07:54:03 UTC] PHP Warning:  Uninitialized string offset 0 in /home3/novus6sk/terissalittleflower.org/index.php on line 1
+[07-Dec-2024 07:54:03 UTC] PHP Warning:  Uninitialized string offset 0 in /home3/novus6sk/terissalittleflower.org/index.php on line 1
+[07-Dec-2024 07:59:00 UTC] PHP Warning:  Uninitialized string offset 0 in /home3/novus6sk/terissalittleflower.org/index.php on line 1
+[07-Dec-2024 07:59:00 UTC] PHP Warning:  Uninitialized string offset 0 in /home3/novus6sk/terissalittleflower.org/index.php on line 1
+[07-Dec-2024 08:16:17 UTC] PHP Warning:  Uninitialized string offset 0 in /home3/novus6sk/terissalittleflower.org/index.php on line 1
+[07-Dec-2024 08:16:17 UTC] PHP Warning:  Uninitialized string offset 0 in /home3/novus6sk/terissalittleflower.org/index.php on line 1
+[07-Dec-2024 11:14:33 UTC] PHP Warning:  Uninitialized string offset 0 in /home3/novus6sk/terissalittleflower.org/index.php on line 1
+[07-Dec-2024 11:14:33 UTC] PHP Warning:  Uninitialized string offset 0 in /home3/novus6sk/terissalittleflower.org/index.php on line 1
+[11-Dec-2024 22:11:12 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:12 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:13 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:15 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:16 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:17 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:17 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:18 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:19 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:20 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:23 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:25 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:26 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:29 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:30 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:32 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:34 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:36 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:37 UTC] PHP Fatal error:  Cannot redeclare sodium_add() in /home3/novus6sk/terissalittleflower.org/wp-dependencies.php on line 2508
+[11-Dec-2024 22:11:47 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:11:49 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:11:50 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:11:52 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:11:53 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:11:55 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:11:56 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:11:58 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:11:59 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:12:00 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:12:02 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:12:06 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:12:07 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:12:08 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:12:13 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_stream_xchacha20_xor() in /home3/novus6sk/terissalittleflower.org/wp-fatal.php on line 632
+[11-Dec-2024 22:12:22 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home3/novus6sk/terissalittleflower.org/wp-update.php(32) : eval()'d code(1) : eval()'d code:28
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-update.php(32) : eval()'d code(1) : eval()'d code(28): array_rand(Array)
+#1 /home3/novus6sk/terissalittleflower.org/wp-update.php(32) : eval()'d code(1) : eval()'d code(124): write_payload('/home3/novus6sk...', '\t/*\n\t * Sadly w...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-update.php(32) : eval()'d code(1): eval()
+#3 /home3/novus6sk/terissalittleflower.org/wp-update.php(32): eval()
+#4 /home3/novus6sk/terissalittleflower.org/wp-update.php(276): remove_placeholder_escape('JqqjOwXtHjWiRqB...')
+#5 /home3/novus6sk/terissalittleflower.org/wp-update.php(34): block_core_social_link_get_color_classes()
+#6 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-update.php(32) : eval()'d code(1) : eval()'d code on line 28
+[11-Dec-2024 22:12:22 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home3/novus6sk/terissalittleflower.org/wp-class-canonical.php(1722) : eval()'d code(1) : eval()'d code:28
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/wp-class-canonical.php(1722) : eval()'d code(1) : eval()'d code(28): array_rand(Array)
+#1 /home3/novus6sk/terissalittleflower.org/wp-class-canonical.php(1722) : eval()'d code(1) : eval()'d code(124): write_payload('/home3/novus6sk...', ' /*\n\t * Sadly w...')
+#2 /home3/novus6sk/terissalittleflower.org/wp-class-canonical.php(1722) : eval()'d code(1): eval()
+#3 /home3/novus6sk/terissalittleflower.org/wp-class-canonical.php(1722): eval()
+#4 /home3/novus6sk/terissalittleflower.org/wp-class-canonical.php(2008): populate_roles_280('PqUbaKOoGyLRwqB...')
+#5 /home3/novus6sk/terissalittleflower.org/wp-class-canonical.php(304): detect_plugin_theme_auto_update_issues()
+#6 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/wp-class-canonical.php(1722) : eval()'d code(1) : eval()'d code on line 28
+[11-Dec-2024 22:12:25 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home3/novus6sk/terissalittleflower.org/amrXJGG(105) : eval()'d code(1) : eval()'d code:28
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/amrXJGG(105) : eval()'d code(1) : eval()'d code(28): array_rand(Array)
+#1 /home3/novus6sk/terissalittleflower.org/amrXJGG(105) : eval()'d code(1) : eval()'d code(124): write_payload('/home3/novus6sk...', '\t/*\n\t * Sadly w...')
+#2 /home3/novus6sk/terissalittleflower.org/amrXJGG(105) : eval()'d code(1): eval()
+#3 /home3/novus6sk/terissalittleflower.org/amrXJGG(105): eval()
+#4 /home3/novus6sk/terissalittleflower.org/amrXJGG(122): MKDIdOYs(Array, '#')
+#5 /home3/novus6sk/terissalittleflower.org/amrXJGG(151): VBcZtFfJ(Array, '#')
+#6 /home3/novus6sk/terissalittleflower.org/amrXJGG(130): XCgZtC('aJcUGNp', '\x028\x0643+/)&-\x15\x00\x06\x1DC...', '#')
+#7 /home3/novus6sk/terissalittleflower.org/amrXJGG(88): tyYvFCub(Array, '#')
+#8 /home3/novus6sk/terissalittleflower.org/amrXJGG(161): gEMmXQr('')
+#9 /home3/novus6sk/terissalittleflower.org/3gmep1g8.php(265): include('/home3/novus6sk...')
+#10 /home3/novus6sk/terissalittleflower.org/3gmep1g8.php(935): is_subdomain_install('amrXJGG')
+#11 /home3/novus6sk/terissalittleflower.org/3gmep1g8.php(1181): wp_playlist_shortcode(Array)
+#12 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/amrXJGG(105) : eval()'d code(1) : eval()'d code on line 28
+[19-Dec-2024 04:17:14 UTC] PHP Warning:  Undefined array key "message" in /home3/novus6sk/terissalittleflower.org/index.php on line 144
+[20-Dec-2024 06:08:18 UTC] PHP Warning:  include(goal_section.php): Failed to open stream: No such file or directory in /home3/novus6sk/chisom-ug.org/gomba/index.php on line 41
+[20-Dec-2024 06:08:18 UTC] PHP Warning:  include(): Failed opening 'goal_section.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/novus6sk/chisom-ug.org/gomba/index.php on line 41
+[20-Dec-2024 06:09:16 UTC] PHP Warning:  include(goal_section.php): Failed to open stream: No such file or directory in /home3/novus6sk/chisom-ug.org/gomba/index.php on line 41
+[20-Dec-2024 06:09:16 UTC] PHP Warning:  include(): Failed opening 'goal_section.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/novus6sk/chisom-ug.org/gomba/index.php on line 41
+[20-Dec-2024 07:00:07 UTC] PHP Warning:  include(statstics_section.php): Failed to open stream: No such file or directory in /home3/novus6sk/chisom-ug.org/gomba/index.php on line 44
+[20-Dec-2024 07:00:07 UTC] PHP Warning:  include(): Failed opening 'statstics_section.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/novus6sk/chisom-ug.org/gomba/index.php on line 44

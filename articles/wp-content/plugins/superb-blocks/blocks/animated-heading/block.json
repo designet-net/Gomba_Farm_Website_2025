@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "superb-addons/animated-heading",
+  "version": "0.1.0",
+  "title": "Superb Animated Heading",
+  "category": "superb-addons-blocks",
+  "icon": "redo",
+  "description": "Superbly designed animated heading block for your WordPress site. Easily choose between multiple animations.",
+  "keywords": ["animated", "animation", "heading", "header", "h1", "h2", "h3"],
+  "supports": {
+    "html": false,
+    "align": ["left", "right"]
+  },
+  "textdomain": "superb-blocks",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

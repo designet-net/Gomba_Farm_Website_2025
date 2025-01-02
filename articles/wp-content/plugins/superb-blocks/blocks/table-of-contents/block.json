@@ -1,0 +1,26 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "superb-addons/table-of-contents",
+  "version": "0.1.0",
+  "title": "Superb Table of Contents",
+  "category": "superb-addons-blocks",
+  "icon": "editor-ol",
+  "description": "Superbly designed table of contents block for your WordPress site.",
+  "keywords": [
+    "table of contents",
+    "toc",
+    "table",
+    "contents",
+    "content",
+    "overview"
+  ],
+  "supports": {
+    "html": false,
+    "align": ["left", "right"]
+  },
+  "textdomain": "superb-blocks",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

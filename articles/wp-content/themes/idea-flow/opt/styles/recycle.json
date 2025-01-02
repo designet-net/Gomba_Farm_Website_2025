@@ -1,0 +1,56 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "♻️ Recycle",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#10B981",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#71717A",
+					"name": "Mono 2",
+					"slug": "mono-2"
+				},
+				{
+					"color": "#FFFFFF",
+					"name": "Contrast Light",
+					"slug": "contrast-light"
+				},
+				{
+					"color": "#000000",
+					"name": "Contrast Dark",
+					"slug": "contrast-dark"
+				},
+				{
+					"color": "#FFFFFF",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#042F2E",
+					"name": "Mono 1",
+					"slug": "mono-1"
+				},
+				{
+					"color": "#E4E4E7",
+					"name": "Mono 3",
+					"slug": "mono-3"
+				},
+				{
+					"color": "#F4F4F5",
+					"name": "Mono 4",
+					"slug": "mono-4"
+				},
+				{
+					"color": "#059669",
+					"name": "Primary Hover",
+					"slug": "primary-hover"
+				}
+			]
+		}
+	}
+}

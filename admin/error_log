@@ -1,0 +1,120 @@
+[24-Nov-2024 10:19:20 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin/admin.php:162
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/admin.php(162): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/admin.php on line 162
+[24-Nov-2024 10:19:22 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin/admin.php:162
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/admin.php(162): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/admin.php on line 162
+[24-Nov-2024 10:19:24 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin/admin.php:162
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/admin.php(162): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/admin.php on line 162
+[24-Nov-2024 10:19:24 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin/admin.php:162
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/admin.php(162): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/admin.php on line 162
+[24-Nov-2024 10:19:31 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin/admin.php:162
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/admin.php(162): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/admin.php on line 162
+[24-Nov-2024 10:19:46 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin/admin.php:162
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/admin.php(162): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/admin.php on line 162
+[24-Nov-2024 10:19:54 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin/admin.php:162
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/admin.php(162): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/admin.php on line 162
+[24-Nov-2024 10:19:55 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin/admin.php:162
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/admin.php(162): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/admin.php on line 162
+[24-Nov-2024 10:19:58 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin/admin.php:162
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/admin.php(162): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/admin.php on line 162
+[24-Nov-2024 10:19:59 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin/admin.php:162
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/admin.php(162): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/admin.php on line 162
+[24-Nov-2024 10:20:01 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin/admin.php:162
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/admin.php(162): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/admin.php on line 162
+[24-Nov-2024 10:20:02 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin/admin.php:162
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/admin.php(162): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/admin.php on line 162
+[27-Nov-2024 19:35:07 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:35:08 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:35:10 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:35:11 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:35:12 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:35:15 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:35:17 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:35:19 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:35:21 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:36:03 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:36:05 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:36:10 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:36:12 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:36:13 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:36:15 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:36:16 UTC] PHP Parse error:  syntax error, unexpected variable "$fvb__yaewqcmxw" in /home3/novus6sk/terissalittleflower.org/admin/profile.php on line 152
+[27-Nov-2024 19:36:20 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:36:20 UTC] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:36:20 UTC] PHP Warning:  Undefined global variable $_SESSION in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:36:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:37:19 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:37:19 UTC] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:37:19 UTC] PHP Warning:  Undefined global variable $_SESSION in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:37:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:38:08 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:38:08 UTC] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:38:08 UTC] PHP Warning:  Undefined global variable $_SESSION in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:38:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:38:42 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:38:42 UTC] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:38:42 UTC] PHP Warning:  Undefined global variable $_SESSION in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:38:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:39:43 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:39:43 UTC] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:39:43 UTC] PHP Warning:  Undefined global variable $_SESSION in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:39:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:40:17 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:40:17 UTC] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:40:17 UTC] PHP Warning:  Undefined global variable $_SESSION in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:40:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:42:13 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:42:13 UTC] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:42:13 UTC] PHP Warning:  Undefined global variable $_SESSION in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:42:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:44:08 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:44:08 UTC] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:44:08 UTC] PHP Warning:  Undefined global variable $_SESSION in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:44:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:44:58 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:44:58 UTC] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[27-Nov-2024 19:44:58 UTC] PHP Warning:  Undefined global variable $_SESSION in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[27-Nov-2024 19:44:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[07-Dec-2024 03:59:54 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[07-Dec-2024 03:59:54 UTC] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[07-Dec-2024 03:59:54 UTC] PHP Warning:  Undefined global variable $_SESSION in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[07-Dec-2024 03:59:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[11-Dec-2024 22:04:49 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[11-Dec-2024 22:04:49 UTC] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 1
+[11-Dec-2024 22:04:49 UTC] PHP Warning:  Undefined global variable $_SESSION in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242
+[11-Dec-2024 22:04:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/novus6sk/terissalittleflower.org/admin/headings.php on line 242

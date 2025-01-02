@@ -1,0 +1,120 @@
+/* ----------------------------------------------------------------------------
+ * Header Section
+ * ------------------------------------------------------------------------- */
+
+.about-wrap {
+	max-width: 100%;
+}
+.about-wrap .header-wrap{
+	background-color: #f5f7f9;
+	padding: 60px;
+}
+@media screen and (min-width: 768px){
+	.info-wrap .col-wrap .col.theme-detail{
+		width: 70%;
+		padding-right: 60px;
+		margin-top: 15px;
+	}
+	.info-wrap .col-wrap .col.theme-img{
+		width: 30%;
+		text-align: right;
+	}
+}
+.about-wrap h1,
+.about-wrap .about-text {
+	margin: 0;
+}
+.about-wrap h1{
+	margin-bottom: 15px;
+}
+.about-wrap .about-text {
+	margin-bottom: 40px;
+}
+.info-wrap .col-wrap .col.theme-img img {
+	max-width: 300px;
+}
+@media screen and (max-width: 767px){
+	.info-wrap .col-wrap .col.theme-img img {
+		margin-top: 30px;
+	}
+}
+.epsilon-wrap i.dashicons {
+	margin-right: 15px;
+	position: relative;
+	top: 3px;
+}
+
+.info-wrap .col-wrap {
+	margin: 0 -15px;
+	width: auto;
+}
+.info-wrap .col-wrap:before, .info-wrap .col-wrap:after {
+	content: "";
+	clear: both;
+	display: block;
+}
+.info-wrap .col-wrap .col {
+	box-sizing: border-box;
+	float: left;
+	width: 33.33%;
+	padding: 0 15px;
+}
+@media only screen and (max-width: 767px) {
+	.info-wrap .col-wrap .col {
+		float: left;
+		width: 100%;
+	}
+}
+
+/*display grid css*/
+.display-grid {
+	display: grid;
+	gap: 30px;
+}
+.align-center {
+	align-items: center;
+}
+.col-grid-2 {
+	grid-template-columns: 2fr 1fr;
+}
+.col-grid-3 {
+	grid-template-columns: repeat(3, 1fr);
+}
+.about-wrap
+/*faq*/
+.col-full {
+	max-width: 55em;
+}
+
+.about-wrap .quick-links a {
+	margin: 0 5px;
+}
+
+@media only screen and (max-width: 991px) {
+	.col-grid-3 {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+@media only screen and (max-width: 782px) { 
+	.info-wrap .col-wrap .col {
+		width: 100%;
+	}
+	.col-grid-2 {
+		grid-template-columns: 1fr;
+	}
+	.col-grid-3 {
+		grid-template-columns: repeat(1, 1fr);
+	}
+	.about-wrap .header-wrap{
+		padding: 40px 30px;
+	}
+}
+@media only screen and (max-width: 479px) { 
+	.about-wrap h1 {
+		font-size: 16px;
+    	font-weight: 600;
+	}
+	.about-wrap .about-text {
+		font-size: 14px;
+	}
+}

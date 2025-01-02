@@ -1,0 +1,27 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "superb-addons/google-maps",
+  "version": "0.1.0",
+  "title": "Superb Google Maps",
+  "category": "superb-addons-blocks",
+  "icon": "location",
+  "description": "Easily embed Google Maps on your website.",
+  "keywords": [
+    "maps",
+    "google",
+    "google maps",
+    "directions",
+    "position",
+    "address",
+    "location"
+  ],
+  "supports": {
+    "html": false,
+    "align": ["left", "right", "full"]
+  },
+  "textdomain": "superb-blocks",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

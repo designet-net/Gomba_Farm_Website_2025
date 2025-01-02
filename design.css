@@ -1,0 +1,314 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Merriweather:wght@400;700&display=swap');
+
+/* General Styles */
+body {
+    font-family: 'Roboto', sans-serif; /* Primary font */
+    font-size: 16px; /* Base font size */
+    line-height: 1.6; /* Optimal line height */
+    color: #333; /* Default text color */
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather', serif; /* Heading font */
+    margin: 0.5em 0;
+}
+
+h1 {
+    font-size: 3.0rem; /* 40px */
+    text-align: left;
+    font-weight: bolder;
+    color: #5CB338;
+}
+
+h2 {
+    font-size: 2rem; /* 32px */
+}
+
+h3 {
+    font-size: 1.75rem; /* 28px */
+    margin-bottom: 10px;
+    color: #12581c;
+    text-align: left;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 1.5rem; /* 24px */
+}
+
+h5 {
+    font-size: 1.25rem; /* 20px */
+}
+
+h6 {
+    font-size: 1rem; /* 16px */
+}
+
+p {
+    line-height: 1.6;
+    margin: 0;
+    font-size: 16px;
+    text-align: left;
+}
+
+/* Navigation */
+.sitenav ul {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+/* Navigation Styles */
+.sitenav ul li a,
+.sitenav ul li.current_page_item ul.sub-menu li a,
+.sitenav ul li.current-menu-parent ul.sub-menu li a {
+    color: #ffffff; /* Default text color for navigation links */
+    transition: color 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.sitenav ul li ul li {
+    border-color: #954810; /* Border color for submenu items */
+}
+
+.sitenav ul li a:hover,
+.sitenav ul li.current_page_item a,
+.sitenav ul li.current_page_item ul li a:hover,
+.sitenav ul li.current-menu-parent a,
+.sitenav ul li:hover {
+    color: #000; /* Hover text color */
+    background-color: #e6e6e6; /* Subtle background color on hover */
+    border-radius: 4px; /* Rounded edges for a polished look */
+}
+
+/* Active Button Styling */
+.sitenav ul li.active a,
+.sitenav ul li.current-menu-item a {
+    background-color: #6d4c41; /* Active button background color */
+    color: #ffffff; /* Active button text color */
+    border-radius: 4px; /* Maintain consistency with hover styling */
+    font-weight: bold; /* Highlight active button with bold text */
+}
+
+
+/* Section Titles */
+h2.section_title, h3.section_title {
+    font-family: Assistant;
+    font-size: 32px;
+    color: #353535;
+}
+
+.logo h1 span, h2.section_title span {
+    color: #a65418 !important;
+}
+
+/* Buttons */
+.button,
+#commentform input#submit,
+input.search-submit,
+.post-password-form input[type='submit'],
+p.read-more a,
+.pagination ul li span,
+.pagination ul li a,
+.headertop .right a,
+.wpcf7 form input[type='submit'],
+#sidebar .search-form input.search-submit {
+    color: #ffffff;
+}
+
+#commentform input#submit:hover,
+input.search-submit:hover,
+.post-password-form input[type=submit]:hover,
+p.read-more a:hover,
+.pagination ul li .current,
+.pagination ul li a:hover,
+.headertop .right a:hover,
+.wpcf7 form input[type='submit']:hover {
+    background-color: #555555;
+    color: #ffffff;
+}
+
+a.morebutton {
+    color: #ffffff;
+}
+
+a.morebutton:hover {
+    background-color: #555555;
+    color: #ffffff;
+}
+
+a.buttonstyle1 {
+    background-color: #555555;
+    color: #ffffff;
+}
+
+a.buttonstyle1:hover {
+    color: #ffffff;
+}
+
+/* Footer */
+#footer-wrapper {
+    background: url(wp-content/themes/the-church/images/footer-bg.jpg) no-repeat;
+    background-size: 100% 100% !important;
+    color: #ababab;
+}
+
+.footer h5 {
+    color: #ffffff;
+    font-size: 21px;
+}
+
+.copyright-wrapper {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.copyright-wrapper a:hover {
+    color: #ffffff;
+}
+
+/* Header */
+.header-top {
+    color: #ffffff;
+}
+
+.header-top .social-icons a {
+    color: #ffffff;
+}
+
+.header-top .social-icons a:hover {
+    color: #000;
+}
+
+/* Widgets */
+aside.widget {
+    background-color: #ffffff;
+    color: #6e6d6d;
+}
+
+h3.widget-title {
+    color: #444444;
+}
+
+/* Portfolio and Filters */
+ul.portfoliofilter li a {
+    color: #111111;
+}
+
+ul.portfoliofilter li a.selected,
+ul.portfoliofilter li a:hover,
+ul.portfoliofilter li:hover a {
+    color: #7c4d0e;
+}
+
+/* Miscellaneous */
+a:hover, .slide_toggle a:hover {
+    color: #272727;
+}
+
+a {
+    color: #7c4d0e;
+}
+
+.design-by .social-icons a:hover,
+.about-me:hover h6,
+.news-box:hover h3,
+.features:hover h5 {
+    color: #000 !important;
+}
+
+/* Basic container and row styling */
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px; /* Padding around the container */
+}
+
+.row-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Space between boxes */
+}
+
+.box-content {
+    background: #8EB486; /* Light background color */
+    padding: 20px;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    flex: 1 1 calc(50% - 20px); /* Two columns layout */
+    box-sizing: border-box; /* Include padding in width */
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+/* Responsive Layout */
+@media (max-width: 768px) {
+    .box-content {
+        flex: 1 1 100%; /* Full width on smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .box-content {
+        flex: 1 1 100%; /* 1 item per row */
+    }
+}
+
+/* Full-width row styling */
+.full-width-row {
+    width: 100%; /* Ensures the row takes full width */
+    padding: 0; /* Remove any padding (you can add padding if needed) */
+    margin: 0; /* Remove any default margin (you can add margin if needed) */
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Optional: Centers the content horizontally */
+    align-items: center; /* Optional: Centers the content vertically */
+    background-color: #f3f3f3; /* Optional: Add background color */
+}
+
+.full-width-row .content {
+    width: 100%; /* Ensures inner content spans the full width */
+    max-width: 1200px; /* Optional: Set a max-width for the inner content */
+    padding: 20px; /* Padding inside the content */
+    text-align: center; /* Centers text within the content */
+}
+
+/* Two-column layout */
+.two-column-row {
+    display: flex; /* Use flexbox layout */
+    flex-wrap: wrap; /* Allow wrapping on smaller screens */
+    gap: 20px; /* Adds spacing between columns */
+    justify-content: space-between; /* Distribute space between columns */
+    margin: 0 auto; /* Center the layout horizontally */
+}
+
+/* Each column in the row */
+.two-column-row .column {
+    flex: 1 1 calc(50% - 20px); /* Takes 50% of the space minus gap */
+    box-sizing: border-box; /* Include padding and borders in width calculation */
+    padding: 20px; /* Padding inside each column */
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    .two-column-row .column {
+        flex: 1 1 100%; /* On smaller screens, each column takes 100% width */
+    }
+}
+
+@media (max-width: 480px) {
+    .two-column-row .column {
+        flex: 1 1 100%; /* Stack columns on very small screens */
+    }
+}
+
+/* Image styling */
+img {
+    background-color: #8EB486;
+}
+
+/* Green Button Hover Effect */
+.green-button:hover {
+    background-color: #218838; /* Darker green on hover */
+}

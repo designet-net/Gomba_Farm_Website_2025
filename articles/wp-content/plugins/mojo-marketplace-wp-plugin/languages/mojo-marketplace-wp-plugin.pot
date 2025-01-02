@@ -1,0 +1,940 @@
+# Copyright (C) 2023 Bluehost
+# This file is distributed under the GPL 2.0 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: The MOJO Marketplace 1.7.2\n"
+"Report-Msgid-Bugs-To: https://github.com/bluehost/mojo-marketplace-wp-plugin/issues\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: mojo-marketplace-wp-plugin\n"
+
+#. Plugin Name of the plugin
+msgid "The MOJO Marketplace"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://mojomarketplace.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin adds shortcodes, widgets, and themes to your WordPress site."
+msgstr ""
+
+#. Author of the plugin
+#: inc/branding.php:53
+#: inc/coming-soon.php:118
+#: inc/menu.php:23
+#: inc/menu.php:27
+#: inc/updates.php:57
+#: inc/updates.php:65
+msgid "Bluehost"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://bluehost.com"
+msgstr ""
+
+#. translators: %s: installation date
+#: inc/base.php:15
+msgid "Install date: %s"
+msgstr ""
+
+#: inc/base.php:99
+msgid "Once Weekly"
+msgstr ""
+
+#: inc/base.php:103
+msgid "Once a month"
+msgstr ""
+
+#: inc/branding.php:47
+msgid "This plugin integrates your WordPress site with the Bluehost control panel, including performance, security, and update features."
+msgstr ""
+
+#. translators: 1: opening anchor tag, 2: closing anchor tag
+#: inc/coming-soon.php:14
+msgid "Your site is currently displaying a \"Coming Soon\" page. Once you are ready to launch your site %1$sclick here%2$s."
+msgstr ""
+
+#: inc/coming-soon.php:34
+#: inc/menu.php:84
+msgid "Coming Soon Active"
+msgstr ""
+
+#: inc/coming-soon.php:35
+msgid "Your site is currently displaying a \"Coming Soon\" page. This allows you to work on your site without the public seeing until you are ready to unveil it."
+msgstr ""
+
+#: inc/coming-soon.php:37
+msgid "Launch your site"
+msgstr ""
+
+#: inc/coming-soon.php:55
+msgid "Congratulations your site is now live!"
+msgstr ""
+
+#: inc/coming-soon.php:56
+msgid "Your site is now live for the public to see! Make sure you are checking back frequently to see your visitors comments and feedback."
+msgstr ""
+
+#: inc/coming-soon.php:58
+msgid "View Site"
+msgstr ""
+
+#. translators: 1: opening anchor tag, 2: closing anchor tag
+#: inc/coming-soon.php:74
+msgid "Congratulations. Your site is now live, %1$sclick here%2$s to view it."
+msgstr ""
+
+#: inc/coming-soon.php:125
+msgid "Coming Soon Page"
+msgstr ""
+
+#: inc/coming-soon.php:132
+msgid "Enable"
+msgstr ""
+
+#: inc/coming-soon.php:161
+msgid "Gotcha!"
+msgstr ""
+
+#: inc/coming-soon.php:171
+msgid "Please provide a valid email address"
+msgstr ""
+
+#: inc/coming-soon.php:184
+msgid "There was an error with the subscription"
+msgstr ""
+
+#: inc/coming-soon.php:189
+msgid "Subscription successful"
+msgstr ""
+
+#: inc/menu.php:19
+msgid "Mojo"
+msgstr ""
+
+#: inc/menu.php:43
+#: inc/menu.php:125
+#: pages/header-small-w-nav.php:30
+#: pages/header/nav-primary.php:18
+msgid "Home"
+msgstr ""
+
+#: inc/menu.php:62
+#: pages/staging-staging.php:15
+msgid "Staging Environment"
+msgstr ""
+
+#: inc/menu.php:64
+msgid "Staging Actions"
+msgstr ""
+
+#: inc/menu.php:73
+#: inc/menu.php:75
+msgid "Get Online Now"
+msgstr ""
+
+#: inc/menu.php:86
+msgid "Launch Your Site"
+msgstr ""
+
+#: inc/menu.php:104
+msgid "Premium"
+msgstr ""
+
+#: inc/menu.php:113
+#: pages/header/nav-primary.php:10
+#: pages/mojo-home.php:258
+#: pages/mojo-performance.php:42
+msgid "Performance"
+msgstr ""
+
+#: inc/menu.php:114
+#: pages/header-small.php:14
+#: pages/header.php:76
+#: pages/header/header-no-nav.php:12
+#: pages/header/header.php:14
+#: pages/header/nav-primary.php:6
+#: pages/mojo-marketplace.php:16
+msgid "Marketplace"
+msgstr ""
+
+#: inc/menu.php:137
+msgid "Staging (beta)"
+msgstr ""
+
+#: inc/menu.php:137
+msgid "Staging <small>(beta)</small>"
+msgstr ""
+
+#: inc/menu.php:159
+msgid "Staging Feedback"
+msgstr ""
+
+#: inc/menu.php:164
+msgid "Back to Bluehost"
+msgstr ""
+
+#: inc/menu.php:172
+msgid "Connect Jetpack"
+msgstr ""
+
+#: inc/performance.php:13
+msgid "Cache level updated successfully."
+msgstr ""
+
+#: inc/performance.php:18
+msgid "Unable to update cache level."
+msgstr ""
+
+#: inc/performance.php:24
+msgid "Unable to add cache plugin."
+msgstr ""
+
+#: inc/performance.php:50
+msgid "Object cache coming soon."
+msgstr ""
+
+#: inc/performance.php:55
+msgid "Object cache not available on your hosting plan."
+msgstr ""
+
+#. translators: %s: type of cache
+#: inc/performance.php:69
+msgid "%s cache added successfully."
+msgstr ""
+
+#. translators: %s: type of cache
+#: inc/performance.php:82
+msgid "Unable to add %s cache."
+msgstr ""
+
+#. translators: %s: type of cache
+#: inc/performance.php:110
+msgid "%s cache removed successfully."
+msgstr ""
+
+#: inc/performance.php:117
+msgid "Could not remove cache file."
+msgstr ""
+
+#: inc/performance.php:123
+msgid "Cache file does not exist."
+msgstr ""
+
+#. translators: %s: PHP version
+#: inc/performance.php:187
+msgid "PHP is updated to %s"
+msgstr ""
+
+#: inc/performance.php:194
+msgid "Site is incompatible with PHP Edge. Edge removed."
+msgstr ""
+
+#: inc/performance.php:203
+msgid "Unable to enable PHP Edge."
+msgstr ""
+
+#: inc/performance.php:217
+msgid "PHP Edge successfully disabled."
+msgstr ""
+
+#: inc/performance.php:222
+msgid "Unable to remove PHP Edge."
+msgstr ""
+
+#: inc/performance.php:228
+msgid "PHP Edge file does not exist."
+msgstr ""
+
+#. translators: 1: plugin name 2: incompatible plugin
+#: inc/plugin-nfd-compat-check.php:114
+msgid "The \"%1$s\" plugin is incompatible with the \"%2$s\" plugin."
+msgstr ""
+
+#. translators: plugin name
+#: inc/plugin-nfd-compat-check.php:149
+#: inc/plugin-php-compat-check.php:191
+msgid "The \"%s\" plugin has been deactivated."
+msgstr ""
+
+#. translators: 1: plugin name 2: minimum required PHP version, current PHP version
+#: inc/plugin-php-compat-check.php:121
+msgid "%1$s requires PHP version %2$s or later. You are currently running version %3$s."
+msgstr ""
+
+#: inc/plugin-php-compat-check.php:122
+msgid " Please contact your web host about upgrading PHP."
+msgstr ""
+
+#. translators: 1: plugin name 2: required PHP extension
+#: inc/plugin-php-compat-check.php:137
+msgid "%1$s requires the %2$s PHP extension."
+msgstr ""
+
+#. translators: 1: plugin name 2: minimum required WordPress version 3: current WordPress version
+#: inc/plugin-php-compat-check.php:153
+msgid "%1$s requires WordPress version %2$s or later. You are currently running version %3$s."
+msgstr ""
+
+#: inc/updates.php:44
+msgid "On"
+msgstr ""
+
+#: inc/updates.php:45
+#: pages/mojo-performance.php:64
+msgid "Off"
+msgstr ""
+
+#: inc/updates.php:59
+msgid "Host"
+msgstr ""
+
+#: inc/updates.php:69
+msgid "Auto Update Manager"
+msgstr ""
+
+#: inc/updates.php:78
+msgid "Core Major"
+msgstr ""
+
+#: inc/updates.php:90
+msgid "Core Minor"
+msgstr ""
+
+#: inc/updates.php:101
+msgid "Themes"
+msgstr ""
+
+#: inc/updates.php:111
+msgid "Plugins"
+msgstr ""
+
+#. translators: %s Settings > General page URL.
+#: inc/updates.php:199
+#: inc/updates.php:225
+#: inc/updates.php:250
+msgid "Auto-updates enabled on the <a href=\"%s\">Settings > General page</a>."
+msgstr ""
+
+#: inc/updates.php:246
+msgid "Auto-updates enabled"
+msgstr ""
+
+#: pages/api-unavailable.php:9
+msgid "Unable to load items from API. Please try again."
+msgstr ""
+
+#: pages/api-unavailable.php:13
+msgid "Try Again"
+msgstr ""
+
+#. translators: %s: Blog name
+#: pages/coming-soon/bluehost-india.php:8
+#: pages/coming-soon/mojo.php:8
+msgid "%s &mdash; Coming Soon"
+msgstr ""
+
+#: pages/coming-soon/bluehost-india.php:130
+#: pages/coming-soon/bluehost.php:358
+msgid "A New WordPress Site"
+msgstr ""
+
+#: pages/coming-soon/bluehost-india.php:131
+#: pages/coming-soon/bluehost.php:311
+#: pages/coming-soon/bluehost.php:359
+msgid "Coming Soon!"
+msgstr ""
+
+#: pages/coming-soon/bluehost-india.php:133
+#: pages/coming-soon/bluehost.php:361
+#: pages/coming-soon/mojo.php:195
+msgid "Admin Login"
+msgstr ""
+
+#. translators: %1$s is replaced with opening link tag, %2$s is replaced with closing link tag
+#: pages/coming-soon/bluehost-india.php:142
+msgid "a %1$sbluehost india%2$s powered website"
+msgstr ""
+
+#. translators: %s: Blog name
+#: pages/coming-soon/bluehost.php:9
+msgid "%s — Coming Soon"
+msgstr ""
+
+#: pages/coming-soon/bluehost.php:313
+msgid "Be the first to know when we launch, enter your email address and we will let you know when we go live and any future website updates we have."
+msgstr ""
+
+#: pages/coming-soon/bluehost.php:316
+msgid "Thank you, please check your email to confirm your subscription."
+msgstr ""
+
+#: pages/coming-soon/bluehost.php:318
+msgid "There was an error with your submission and you were not subscribed. Please try again with a different email address."
+msgstr ""
+
+#: pages/coming-soon/bluehost.php:324
+#: pages/mojo-home.php:330
+msgid "Email"
+msgstr ""
+
+#: pages/coming-soon/bluehost.php:332
+msgid "Enter your email address"
+msgstr ""
+
+#. translators: %1$s is replaced with opening link tag taking you to bluehost.com/wordpress, %2$s is replaced with closing link tag
+#: pages/coming-soon/bluehost.php:373
+msgid "A %1$sBluehost%2$s powered website."
+msgstr ""
+
+#. translators: %1$s is replaced with opening link tag taking you to login page, %2$s is replaced with opening link tag taking you to my.bluehost.com, %3$s is replaced with closing link tag
+#: pages/coming-soon/bluehost.php:379
+msgid "Is this your website? Log in to %1$sWordPress%3$s or %2$sBluehost%3$s."
+msgstr ""
+
+#: pages/coming-soon/bluehost.php:420
+msgid "Your email address is already subscribed to this website. Stay tuned to your inbox for our updates or try a different email address."
+msgstr ""
+
+#: pages/coming-soon/bluehost.php:424
+msgid "There was an error with your submission and you were not subscribed. Please try again with a valid email address."
+msgstr ""
+
+#: pages/coming-soon/mojo.php:193
+msgid "Website Coming Soon"
+msgstr ""
+
+#: pages/coming-soon/mojo.php:199
+msgid "Just visiting?"
+msgstr ""
+
+#. translators: %1$s is replaced with opening link tag for bookmarking website, %2$s is replaced with closing link tag
+#: pages/coming-soon/mojo.php:204
+msgid "The owner of this website is working on making this site awesome. Why not %1$sbookmark it%2$s and come back again later. We are sure you will not be disappointed."
+msgstr ""
+
+#: pages/coming-soon/mojo.php:212
+msgid "Are you the Site Owner?"
+msgstr ""
+
+#. translators: %1$s is replaced with opening link tag pointing to the WordPress login screen, %2$s is replaced with closing link tag
+#: pages/coming-soon/mojo.php:217
+msgid "You should %1$slogin%2$s to your WordPress installation and prepare your site for launch."
+msgstr ""
+
+#: pages/coming-soon/mojo.php:224
+msgid "To launch your site just click the link in the banner at the top of the scre   en."
+msgstr ""
+
+#: pages/coming-soon/mojo.php:232
+msgid "Login"
+msgstr ""
+
+#: pages/coming-soon/mojo.php:235
+msgid "What is this?"
+msgstr ""
+
+#: pages/coming-soon/mojo.php:241
+msgid "This is the default coming soon page for this site because it was installed via MOJO Marketplace."
+msgstr ""
+
+#: pages/coming-soon/mojo.php:242
+msgid "If you are the site owner and are finished building the site you can click the link in the banner of the administration panel to disable it."
+msgstr ""
+
+#: pages/coming-soon/mojo.php:244
+msgid "close"
+msgstr ""
+
+#: pages/coming-soon/mojo.php:246
+msgid "login"
+msgstr ""
+
+#: pages/header-small-w-nav.php:38
+#: pages/header-small-w-nav.php:69
+#: pages/header/nav-sub.php:30
+msgid "Site Performance"
+msgstr ""
+
+#: pages/header-small-w-nav.php:54
+#: pages/header/nav-sub.php:10
+msgid "Site Content"
+msgstr ""
+
+#: pages/header-small-w-nav.php:59
+#: pages/header/nav-sub.php:15
+#: pages/mojo-home.php:130
+msgid "Design &amp; Build"
+msgstr ""
+
+#: pages/header-small-w-nav.php:64
+#: pages/header/nav-sub.php:23
+#: pages/mojo-home.php:195
+msgid "Traffic &amp; Engagement"
+msgstr ""
+
+#: pages/header-small-w-nav.php:74
+#: pages/header/nav-sub.php:35
+#: pages/mojo-home.php:299
+msgid "Hosting"
+msgstr ""
+
+#: pages/header.php:21
+msgid "Toggle navigation"
+msgstr ""
+
+#: pages/header.php:36
+msgid "Account"
+msgstr ""
+
+#: pages/header.php:39
+msgid "Toggle menu"
+msgstr ""
+
+#: pages/header.php:62
+msgid "Purchases"
+msgstr ""
+
+#: pages/header.php:86
+msgid "Search Themes, Plugins, &amp; Services"
+msgstr ""
+
+#: pages/header.php:90
+msgid "Search"
+msgstr ""
+
+#: pages/header/nav-primary.php:27
+#: pages/mojo-home.php:177
+msgid "Staging"
+msgstr ""
+
+#: pages/header/nav-sub.php:45
+msgid "All"
+msgstr ""
+
+#: pages/header/nav-sub.php:51
+msgid "CDN"
+msgstr ""
+
+#: pages/header/nav-sub.php:57
+#: pages/mojo-home.php:280
+msgid "Photon"
+msgstr ""
+
+#: pages/interim-staging-create.php:12
+msgid "We are setting up your new staging environment!"
+msgstr ""
+
+#: pages/interim-staging-create.php:15
+msgid "This might take a few minutes &hellip;"
+msgstr ""
+
+#: pages/modal-deploy-database.php:7
+msgid "Deploy Database To Production"
+msgstr ""
+
+#: pages/modal-deploy-database.php:17
+msgid "Are you sure you want to deploy the database changes to production?"
+msgstr ""
+
+#: pages/modal-deploy-database.php:18
+#: pages/modal-deploy-files-database.php:18
+#: pages/modal-deploy-files.php:18
+msgid "Cancel Deployment"
+msgstr ""
+
+#: pages/modal-deploy-database.php:19
+#: pages/modal-deploy-files-database.php:19
+#: pages/modal-deploy-files.php:19
+msgid "Yes! Let&#8217;s Deploy"
+msgstr ""
+
+#: pages/modal-deploy-files-database.php:7
+msgid "Deploy Files &amp; Database To Production"
+msgstr ""
+
+#: pages/modal-deploy-files-database.php:17
+msgid "Are you sure you want to deploy all staging files and the database changes to production?"
+msgstr ""
+
+#: pages/modal-deploy-files.php:7
+msgid "Deploy Files To Production"
+msgstr ""
+
+#: pages/modal-deploy-files.php:17
+msgid "Are you sure you want to deploy all the files to production?"
+msgstr ""
+
+#: pages/modal-destroy-confirm.php:7
+#: pages/staging-production.php:170
+msgid "Destroy Staging"
+msgstr ""
+
+#: pages/modal-destroy-confirm.php:16
+msgid "Are you sure you want to destroy staging?"
+msgstr ""
+
+#: pages/modal-destroy-confirm.php:17
+msgid "Any changes that are in your staging environment and not deployed will be lost."
+msgstr ""
+
+#: pages/modal-destroy-confirm.php:18
+msgid "Cancel"
+msgstr ""
+
+#: pages/modal-destroy-confirm.php:19
+msgid "Yes, I am finished"
+msgstr ""
+
+#: pages/mojo-home.php:40
+msgid "Content"
+msgstr ""
+
+#: pages/mojo-home.php:45
+msgid "Blog Posts"
+msgstr ""
+
+#: pages/mojo-home.php:46
+msgid "Add blog posts to your site. You can also organize them into categories."
+msgstr ""
+
+#: pages/mojo-home.php:52
+msgid "Manage Categories"
+msgstr ""
+
+#: pages/mojo-home.php:58
+msgid "Add New Post"
+msgstr ""
+
+#: pages/mojo-home.php:68
+msgid "Pages"
+msgstr ""
+
+#: pages/mojo-home.php:69
+msgid "Add pages to your website easily by clicking add new page."
+msgstr ""
+
+#: pages/mojo-home.php:75
+msgid "Add New Page"
+msgstr ""
+
+#: pages/mojo-home.php:87
+msgid "Navigation Menus"
+msgstr ""
+
+#: pages/mojo-home.php:88
+msgid "If you are looking to adjust or control your navigation of your website simply click manage below and rearrange your menus."
+msgstr ""
+
+#: pages/mojo-home.php:94
+#: pages/mojo-home.php:208
+#: pages/mojo-home.php:321
+#: pages/mojo-home.php:347
+msgid "Manage"
+msgstr ""
+
+#: pages/mojo-home.php:105
+msgid "Sell Products"
+msgstr ""
+
+#: pages/mojo-home.php:112
+msgid "Are you are looking to sell products on your WordPress website? If so, we recommend that you install and setup WooCommerce."
+msgstr ""
+
+#: pages/mojo-home.php:116
+msgid "Manage Products"
+msgstr ""
+
+#: pages/mojo-home.php:118
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: pages/mojo-home.php:120
+msgid "Install WooCommerce"
+msgstr ""
+
+#: pages/mojo-home.php:135
+msgid "Customizer"
+msgstr ""
+
+#: pages/mojo-home.php:136
+msgid "Customize your theme from the front end and view your changes before updating them."
+msgstr ""
+
+#: pages/mojo-home.php:150
+msgid "Customize Theme"
+msgstr ""
+
+#: pages/mojo-home.php:159
+msgid "WordPress Themes"
+msgstr ""
+
+#: pages/mojo-home.php:160
+msgid "Easily browse and find a theme that inspires you!"
+msgstr ""
+
+#: pages/mojo-home.php:164
+msgid "Free Themes"
+msgstr ""
+
+#: pages/mojo-home.php:178
+msgid "Staging allows you to create a seperate copy of your site that only you can see. You can test new ideas there before going live."
+msgstr ""
+
+#: pages/mojo-home.php:184
+msgid "Get Started"
+msgstr ""
+
+#: pages/mojo-home.php:201
+msgid "Social"
+msgstr ""
+
+#: pages/mojo-home.php:202
+msgid "Add social sharing buttons to your site for Facebook, Twitter, and others, so your visitors can share your content with their friends."
+msgstr ""
+
+#: pages/mojo-home.php:220
+msgid "Publicize"
+msgstr ""
+
+#: pages/mojo-home.php:221
+msgid "Share your content with your social networks automatically when you publish content on your site."
+msgstr ""
+
+#: pages/mojo-home.php:227
+#: pages/mojo-home.php:270
+msgid "Configure"
+msgstr ""
+
+#: pages/mojo-home.php:240
+msgid "Stats"
+msgstr ""
+
+#: pages/mojo-home.php:241
+msgid "Stats show you which posts are most popular. You can even stay informed of when you get surges in traffic."
+msgstr ""
+
+#: pages/mojo-home.php:247
+msgid "View Stats"
+msgstr ""
+
+#: pages/mojo-home.php:263
+msgid "Page Cache"
+msgstr ""
+
+#: pages/mojo-home.php:264
+msgid "Page caching allows your server to keep a copy of a page for a short time to dramatically improve speed."
+msgstr ""
+
+#: pages/mojo-home.php:281
+msgid "Photon is an image acceleration service that will resize your images and serve them from a CDN."
+msgstr ""
+
+#: pages/mojo-home.php:285
+msgid "Learn More"
+msgstr ""
+
+#: pages/mojo-home.php:287
+msgid "Activate Jetpack"
+msgstr ""
+
+#: pages/mojo-home.php:289
+msgid "Install Jetpack"
+msgstr ""
+
+#: pages/mojo-home.php:304
+msgid "Manage My Sites"
+msgstr ""
+
+#: pages/mojo-home.php:305
+msgid "Manage your site from Bluehost's control panel. You can take backups, keep things secure, and improve performance."
+msgstr ""
+
+#: pages/mojo-home.php:331
+msgid "Create accounts, compose, send, and recieve all your email in your Bluehost control panel."
+msgstr ""
+
+#: pages/mojo-home.php:358
+msgid "Domains"
+msgstr ""
+
+#: pages/mojo-home.php:359
+msgid "Find a new domain and assign it to your site, or start a new site with a new domain."
+msgstr ""
+
+#: pages/mojo-home.php:380
+msgid "Find a Domain"
+msgstr ""
+
+#: pages/mojo-home.php:390
+msgid "Help"
+msgstr ""
+
+#: pages/mojo-home.php:391
+msgid "Need help from the folks at Bluehost? We have 24/7 US-based phone and chat support waiting to help."
+msgstr ""
+
+#: pages/mojo-home.php:412
+msgid "Help Me"
+msgstr ""
+
+#: pages/mojo-performance.php:50
+msgid "Caching"
+msgstr ""
+
+#: pages/mojo-performance.php:57
+msgid "When a page or asset is eligible for caching, a copy of the file is stored where it can be easily and quickly retreived. This allows most of the things that cause a site to load slow to be skipped, giving your site visitors a faster and better experience while browsing your site."
+msgstr ""
+
+#: pages/mojo-performance.php:65
+msgid "Assets Only"
+msgstr ""
+
+#: pages/mojo-performance.php:66
+msgid "Normal"
+msgstr ""
+
+#: pages/mojo-performance.php:67
+msgid "Advanced"
+msgstr ""
+
+#: pages/staging-create.php:36
+msgid "What&#8217;s a staging site?"
+msgstr ""
+
+#: pages/staging-create.php:39
+msgid "A staging site allows you to make and save changes without your public site being affected."
+msgstr ""
+
+#: pages/staging-create.php:41
+msgid "Once you have perfected your site in the staging environment you can deploy it to production so everyone can see your changes."
+msgstr ""
+
+#: pages/staging-create.php:51
+msgid "Create Staging Site"
+msgstr ""
+
+#: pages/staging-create.php:75
+msgid "Chat with Support"
+msgstr ""
+
+#: pages/staging-create.php:78
+msgid "Please contact support to find out how to enable staging."
+msgstr ""
+
+#: pages/staging-production.php:68
+msgid "Your staging environment is ready!"
+msgstr ""
+
+#: pages/staging-production.php:75
+msgid "Production Environment"
+msgstr ""
+
+#: pages/staging-production.php:83
+#: pages/staging-staging.php:24
+msgid "Below are the details of your staging environment."
+msgstr ""
+
+#: pages/staging-production.php:94
+msgid "Staging URL"
+msgstr ""
+
+#: pages/staging-production.php:107
+msgid "Staging Directory"
+msgstr ""
+
+#: pages/staging-production.php:118
+msgid "Creation Date"
+msgstr ""
+
+#: pages/staging-production.php:129
+msgid "Go To Staging Site"
+msgstr ""
+
+#: pages/staging-production.php:135
+msgid "Ready to deploy your changes? Go to your staging site and deploy from the administration panel."
+msgstr ""
+
+#: pages/staging-production.php:146
+msgid "Staging Options"
+msgstr ""
+
+#: pages/staging-production.php:154
+msgid "Clone Production To Staging"
+msgstr ""
+
+#: pages/staging-production.php:158
+msgid "Copy your current production site and your settings to your staging environment."
+msgstr ""
+
+#: pages/staging-production.php:160
+msgid "Clone"
+msgstr ""
+
+#: pages/staging-production.php:164
+msgid "Destroy Staging Environment"
+msgstr ""
+
+#: pages/staging-production.php:168
+msgid "Need to start fresh? This will completely remove your current staging environment."
+msgstr ""
+
+#: pages/staging-staging.php:34
+msgid "Staging URL:"
+msgstr ""
+
+#: pages/staging-staging.php:37
+msgid "Staging Directory:"
+msgstr ""
+
+#: pages/staging-staging.php:40
+msgid "Creation Date:"
+msgstr ""
+
+#: pages/staging-staging.php:47
+msgid "Go To Production Site"
+msgstr ""
+
+#: pages/staging-staging.php:58
+msgid "Deployment Options"
+msgstr ""
+
+#: pages/staging-staging.php:67
+msgid "Deploy Staging To Production"
+msgstr ""
+
+#: pages/staging-staging.php:76
+msgid "Ready to make your changes live? These options will push the changes you have made on staging up to your production site."
+msgstr ""
+
+#: pages/staging-staging.php:90
+msgid "Deploy Files Only"
+msgstr ""
+
+#: pages/staging-staging.php:94
+msgid "This will only upload the files you have changed (ie. html or css files). It will not upload any changes you have made to your staging database."
+msgstr ""
+
+#: pages/staging-staging.php:105
+msgid "Deploy Files &amp; Database"
+msgstr ""
+
+#: pages/staging-staging.php:109
+msgid "Deploy all changes you have made to the file system and database of your website."
+msgstr ""
+
+#: pages/staging-staging.php:120
+msgid "Deploy Database Only"
+msgstr ""
+
+#: pages/staging-staging.php:124
+msgid "Only upload changes you have made to the database on your staging server. For example, adding a new blog post to your website is a database change."
+msgstr ""

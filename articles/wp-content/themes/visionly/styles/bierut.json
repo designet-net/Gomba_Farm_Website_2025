@@ -1,0 +1,62 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "🧡 Bierut",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#EA580C",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#737373",
+					"name": "Mono 2",
+					"slug": "mono-2"
+				},
+				{
+					"color": "#FFFFFF",
+					"name": "Contrast Light",
+					"slug": "contrast-light"
+				},
+				{
+					"color": "#000000",
+					"name": "Contrast Dark",
+					"slug": "contrast-dark"
+				},
+				{
+					"color": "#FFFFFF",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#171717",
+					"name": "Mono 1",
+					"slug": "mono-1"
+				},
+				{
+					"color": "#E5E5E5",
+					"name": "Mono 3",
+					"slug": "mono-3"
+				},
+				{
+					"color": "#FAFAFA",
+					"name": "Mono 4",
+					"slug": "mono-4"
+				},
+				{
+					"color": "#F97316",
+					"name": "Primary Hover",
+					"slug": "primary-hover"
+				},
+				{
+					"color": "#EA580C",
+					"name": "Featured",
+					"slug": "featured"
+				}
+			]
+		}
+	}
+}
+

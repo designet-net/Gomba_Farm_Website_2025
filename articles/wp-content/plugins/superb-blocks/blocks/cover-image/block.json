@@ -1,0 +1,26 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "superb-addons/cover-image",
+  "version": "0.1.0",
+  "title": "Superb Cover Image",
+  "category": "superb-addons-blocks",
+  "icon": "cover-image",
+  "description": "A simple cover image with additional properties and no text.",
+  "keywords": [
+    "background image",
+    "image",
+    "background",
+    "header",
+    "hero",
+    "cover"
+  ],
+  "supports": {
+    "html": false,
+    "align": ["full"]
+  },
+  "textdomain": "superb-blocks",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

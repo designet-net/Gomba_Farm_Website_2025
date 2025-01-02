@@ -1,0 +1,51 @@
+{
+  "name": "newfold-labs/wp-module-data",
+  "description": "Newfold Data Module",
+  "type": "library",
+  "license": "GPL-2.0-or-later",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://newfold-labs.github.io/satis/",
+      "only": [
+        "newfold-labs/*"
+      ]
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "NewfoldLabs\\WP\\Module\\Data\\": "includes/"
+    },
+    "files": [
+      "bootstrap.php"
+    ]
+  },
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true
+    },
+    "optimize-autoloader": true,
+    "platform-check": false,
+    "sort-packages": true
+  },
+  "scripts": {
+    "fix": [
+      "vendor/bin/phpcbf . --standard=phpcs.xml"
+    ],
+    "lint": [
+      "vendor/bin/phpcs . --standard=phpcs.xml -s"
+    ]
+  },
+  "scripts-descriptions": {
+    "fix": "Automatically fix coding standards issues where possible.",
+    "lint": "Check files against coding standards."
+  },
+  "require": {
+    "wp-forge/wp-upgrade-handler": "^1.0",
+    "wp-forge/wp-query-builder": "^1.0",
+    "wpscholar/url": "^1.2"
+  },
+  "require-dev": {
+    "newfold-labs/wp-php-standards": "^1.2"
+  }
+}

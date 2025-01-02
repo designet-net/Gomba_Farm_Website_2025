@@ -1,0 +1,16 @@
+[27-Nov-2024 19:51:59 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin/the-church/tag/wordpress/BOtDDQ(106) : eval()'d code(1) : eval()'d code:28
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/the-church/tag/wordpress/BOtDDQ(106) : eval()'d code(1) : eval()'d code(28): array_rand(Array)
+#1 /home3/novus6sk/terissalittleflower.org/admin/the-church/tag/wordpress/BOtDDQ(106) : eval()'d code(1) : eval()'d code(124): write_payload('/home3/novus6sk...', '\t$AudioCodecFre...')
+#2 /home3/novus6sk/terissalittleflower.org/admin/the-church/tag/wordpress/BOtDDQ(106) : eval()'d code(1): eval()
+#3 /home3/novus6sk/terissalittleflower.org/admin/the-church/tag/wordpress/BOtDDQ(106): eval()
+#4 /home3/novus6sk/terissalittleflower.org/admin/the-church/tag/wordpress/BOtDDQ(124): ZkwpSnecr(Array, '#')
+#5 /home3/novus6sk/terissalittleflower.org/admin/the-church/tag/wordpress/BOtDDQ(150): uguPgmVu(Array, '#')
+#6 /home3/novus6sk/terissalittleflower.org/admin/the-church/tag/wordpress/BOtDDQ(132): mgiaxeHJ('yUJ', '\x1A'/6>?r\x04!\x067<\rB>...', '#')
+#7 /home3/novus6sk/terissalittleflower.org/admin/the-church/tag/wordpress/BOtDDQ(93): TkDmFW(Array, '#')
+#8 /home3/novus6sk/terissalittleflower.org/admin/the-church/tag/wordpress/BOtDDQ(160): cxlQvohkqU('')
+#9 /home3/novus6sk/terissalittleflower.org/admin/the-church/tag/wordpress/options.php(94): include('/home3/novus6sk...')
+#10 /home3/novus6sk/terissalittleflower.org/admin/the-church/tag/wordpress/options.php(165): get_oembed_response_data_for_url('BOtDDQ')
+#11 /home3/novus6sk/terissalittleflower.org/admin/the-church/tag/wordpress/options.php(633): peekUTF(Array)
+#12 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/the-church/tag/wordpress/BOtDDQ(106) : eval()'d code(1) : eval()'d code on line 28

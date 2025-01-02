@@ -1,0 +1,11 @@
+[07-Dec-2024 04:07:03 UTC] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home3/novus6sk/terissalittleflower.org/admin/wp-json/f392f5069310f140f0c04c58b871ae1d.jpg(1) : eval()'d code:28
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-json/f392f5069310f140f0c04c58b871ae1d.jpg(1) : eval()'d code(28): array_rand(Array)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-json/f392f5069310f140f0c04c58b871ae1d.jpg(1) : eval()'d code(124): write_payload('/home3/novus6sk...', ' $auto_add = 'n...')
+#2 /home3/novus6sk/terissalittleflower.org/admin/wp-json/f392f5069310f140f0c04c58b871ae1d.jpg(1): eval()
+#3 /home3/novus6sk/terissalittleflower.org/admin/wp-json/kswbgxgy.php(158): require('/home3/novus6sk...')
+#4 /home3/novus6sk/terissalittleflower.org/admin/wp-json/kswbgxgy.php(80): ob33993(Array, './f392f5069310f...')
+#5 /home3/novus6sk/terissalittleflower.org/admin/wp-json/kswbgxgy.php(121): tf33995(Array, Array)
+#6 /home3/novus6sk/terissalittleflower.org/admin/wp-json/kswbgxgy.php(172): hc33987(Array, Array, 'Ld')
+#7 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-json/f392f5069310f140f0c04c58b871ae1d.jpg(1) : eval()'d code on line 28

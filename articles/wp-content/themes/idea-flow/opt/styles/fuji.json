@@ -1,0 +1,56 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "🗻Fuji",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#4D4D4D",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#737373",
+					"name": "Mono 2",
+					"slug": "mono-2"
+				},
+				{
+					"color": "#FFFFFF",
+					"name": "Contrast Light",
+					"slug": "contrast-light"
+				},
+				{
+					"color": "#000000",
+					"name": "Contrast Dark",
+					"slug": "contrast-dark"
+				},
+				{
+					"color": "#ffffff",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#424242",
+					"name": "Mono 1",
+					"slug": "mono-1"
+				},
+				{
+					"color": "#DFDFDF",
+					"name": "Mono 3",
+					"slug": "mono-3"
+				},
+				{
+					"color": "#E5E5E5",
+					"name": "Mono 4",
+					"slug": "mono-4"
+				},
+				{
+					"color": "#6E6E6E",
+					"name": "Primary Hover",
+					"slug": "primary-hover"
+				}
+			]
+		}
+	}
+}

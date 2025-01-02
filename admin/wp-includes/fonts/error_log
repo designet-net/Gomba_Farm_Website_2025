@@ -1,0 +1,150 @@
+[24-Nov-2024 10:24:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:24:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:24:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:24:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:24:58 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
+[24-Nov-2024 10:25:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:25:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:25:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:25:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:25:00 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
+[24-Nov-2024 10:25:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:25:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:25:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:25:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:25:01 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
+[24-Nov-2024 10:25:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:25:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:25:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:25:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:25:02 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
+[24-Nov-2024 10:25:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:25:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:25:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:25:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:25:05 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
+[24-Nov-2024 10:25:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:25:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:25:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:25:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:25:09 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
+[24-Nov-2024 10:25:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:25:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:25:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:25:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:25:12 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
+[24-Nov-2024 10:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:25:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:25:15 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
+[24-Nov-2024 10:25:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:25:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:25:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:25:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:25:16 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
+[24-Nov-2024 10:25:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:25:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:25:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:25:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:25:18 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
+[24-Nov-2024 10:25:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:25:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:25:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:25:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:25:23 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
+[24-Nov-2024 10:25:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:25:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:25:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:25:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:25:24 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
+[24-Nov-2024 10:25:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:25:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:25:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:25:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:25:26 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
+[24-Nov-2024 10:25:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:25:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:25:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:25:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:25:26 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
+[24-Nov-2024 10:25:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 469
+[24-Nov-2024 10:25:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 472
+[24-Nov-2024 10:25:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 407
+[24-Nov-2024 10:25:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 419
+[24-Nov-2024 10:25:29 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php:432
+Stack trace:
+#0 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(478): addAnAddress(NULL, false)
+#1 /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php(841): wp_sensitive_page_meta(false)
+#2 {main}
+  thrown in /home3/novus6sk/terissalittleflower.org/admin/wp-includes/fonts/themes.php on line 432
